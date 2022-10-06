@@ -1,5 +1,5 @@
-# T3V3_2AXIS
-for T3V3 2AXIS - remove PAN axis
+# T3V3_2AXIS V1.0
+for T3V3 2AXIS for Skyfish, Acecore - remove PAN axis
 
 # What's new?
 
